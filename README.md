@@ -22,16 +22,18 @@ Jika user menginputkan NIM dan Pin dengan valid, maka user berhasil terdaftar
 
 4. Apabila total harga barang lebih dari Rp. 250.000 maka user mendapatkan diskon sebesar 25%,
 ![diskon](https://github.com/user-attachments/assets/66160805-2e28-4c1e-86d7-3abaf7280e6b)
+
 Dan jika total harga barang kurang dari Rp. 250.000, maka total pembelian barang di bayar sesuai dengan harga barang yang di jual
 ![Screenshot (52)](https://github.com/user-attachments/assets/a9ddcbb0-2648-4b6b-87c3-0eafd53008c4)
 
-5. Setelah total harga muncul, user ditanya apakah ingin menghitung total harga lagi? Jika iya maka tampilan kembali ke tampilan masukkan harga barang
+6. Setelah total harga muncul, user ditanya apakah ingin menghitung total harga lagi? Jika iya maka tampilan kembali ke tampilan masukkan harga barang
 ![Screenshot (53)](https://github.com/user-attachments/assets/d702218c-4712-4c4f-b126-8786421e3d16)
 Jika tidak maka transaksi telah selesai.
 
 # Output Tiap Opsi
 1. Mencari total harga barang
    ![Screenshot (52)](https://github.com/user-attachments/assets/38c86975-fe20-4202-bf92-29c2a8140c32)
+   
 2.  Mencari total harga barang setelah mendapat diskon
    ![diskon](https://github.com/user-attachments/assets/b4b9829e-b04c-4c92-a473-722ca06ac80f)
 
