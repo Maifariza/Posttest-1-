@@ -9,23 +9,24 @@ Maifariza Aulia Dyas | 2409116032 | Sistem Informasi A
 
 # Penjelasan Output
 1. User melakukan login dengan menginputkan Nama, NIM (Interger), dan Pin (Interger 6 angka)
-![Screenshot (54)](https://github.com/user-attachments/assets/ba1528b3-449e-43c0-aac3-a05acd3390fb)
-user-attachments/assets/3bdb1fe6-3ce1-42c9-9fc9-c2e533808e80)
+![Screenshot (45)](https://github.com/user-attachments/assets/559f19ef-a7a6-42e5-b9fe-9c3a3741be4c) 
 Jika user tidak valid untuk menginputkan NIM atau PIN, maka user akan diarahkan untuk mengulang.
 Jika user menginputkan NIM dan Pin dengan valid, maka user berhasil terdaftar
+![1](https://github.com/user-attachments/assets/807ae5a3-dc86-4abd-9509-9ab14f69e1a9)
 
 2. Setelah berhasil login, selanjutnya user diminta memasukkan harga barang
 ![masukkan](https://github.com/user-attachments/assets/5c15cfac-8328-4bba-85db-98ada761c655)
 
 3. Selanjutnya user diminta masukkan jumlah pembelian barang
-![jumlah](https://github.com/user-attachments/assets/85cc355f-cbb8-4847-82ec-628105946def)
-Apabila total harga barang lebih dari Rp. 250.000 maka user mendapatkan diskon sebesar 25%,
+![jumlah](https://github.com/user-attachments/assets/6bdfc619-2b1e-493a-97e9-5892233bd941)
+
+4. Apabila total harga barang lebih dari Rp. 250.000 maka user mendapatkan diskon sebesar 25%,
 ![diskon](https://github.com/user-attachments/assets/66160805-2e28-4c1e-86d7-3abaf7280e6b)
 Dan jika total harga barang kurang dari Rp. 250.000, maka total pembelian barang di bayar sesuai dengan harga barang yang di jual
-![Screenshot (52)](https://github.com/user-attachments/assets/7cc89fd2-a786-4043-b3bc-dc6eabfd4774)
+![Screenshot (52)](https://github.com/user-attachments/assets/a9ddcbb0-2648-4b6b-87c3-0eafd53008c4)
 
-4. Setelah total harga muncul, user ditanya apakah ingin menghitung total harga lagi? Jika iya maka tampilan kembali ke tampilan masukkan harga barang
-   ![Screenshot (53)](https://github.com/user-attachments/assets/d702218c-4712-4c4f-b126-8786421e3d16)
+5. Setelah total harga muncul, user ditanya apakah ingin menghitung total harga lagi? Jika iya maka tampilan kembali ke tampilan masukkan harga barang
+![Screenshot (53)](https://github.com/user-attachments/assets/d702218c-4712-4c4f-b126-8786421e3d16)
 Jika tidak maka transaksi telah selesai.
 
 # Output Tiap Opsi
