@@ -5,7 +5,7 @@ Maifariza Aulia Dyas | 2409116032 | Sistem Informasi A
 ![Maifariza Aulia Dyas drawio (2)](https://github.com/user-attachments/assets/90e6f080-b072-4479-a0ae-816040035e5e)
 
 # Contoh Output awal sampai akhir
-![Maifariza Aulia Dyas drawio (2)](https://github.com/user-attachments/assets/1b498f05-3ce6-4e4f-81ae-44fc54dc8bf9)
+![2](https://github.com/user-attachments/assets/313b3d43-58e7-4246-9328-4c8e8bc403f1) 
 
 # Penjelasan Output
 1. User melakukan login dengan menginputkan Nama, NIM (Interger), dan Pin (Interger 6 angka)
@@ -24,3 +24,10 @@ Dan jika total harga barang kurang dari Rp. 250.000, maka total pembelian barang
 5. Setelah total harga muncul, user ditanya apakah ingin menghitung total harga lagi? Jika iya maka tampilan kembali ke tampilan masukkan harga barang
    ![Screenshot (53)](https://github.com/user-attachments/assets/d702218c-4712-4c4f-b126-8786421e3d16)
 Jika tidak maka transaksi telah selesai.
+
+# Output Tiap Opsi
+1. Mencari total harga barang
+   ![Screenshot (52)](https://github.com/user-attachments/assets/38c86975-fe20-4202-bf92-29c2a8140c32)
+2.  Mencari total harga barang setelah mendapat diskon
+   ![diskon](https://github.com/user-attachments/assets/b4b9829e-b04c-4c92-a473-722ca06ac80f)
+
