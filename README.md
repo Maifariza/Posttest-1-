@@ -17,11 +17,11 @@ Jika user menginputkan NIM dan Pin dengan valid, maka user berhasil terdaftar
 ![masukkan](https://github.com/user-attachments/assets/5c15cfac-8328-4bba-85db-98ada761c655)
 3. Selanjutnya user diminta masukkan jumlah pembelian barang
 ![jumlah](https://github.com/user-attachments/assets/85cc355f-cbb8-4847-82ec-628105946def)
-4. Apabila total harga barang lebih dari Rp. 250.000 maka user mendapatkan diskon sebesar 25%, 
-![diskon](https://github.com/user-attachments/assets/66160805-2e28-4c1e-86d7-3abaf7280e6b)
+4. Apabila total harga barang lebih dari Rp. 250.000 maka user mendapatkan diskon sebesar 25%,
+5. ![diskon](https://github.com/user-attachments/assets/66160805-2e28-4c1e-86d7-3abaf7280e6b)
 Dan jika total harga barang kurang dari Rp. 250.000, maka total pembelian barang di bayar sesuai dengan harga barang yang di jual
 ![Screenshot (52)](https://github.com/user-attachments/assets/7cc89fd2-a786-4043-b3bc-dc6eabfd4774)
-5. Setelah total harga muncul, user ditanya apakah ingin menghitung total harga lagi? Jika iya maka tampilan kembali ke tampilan masukkan harga barang
+6. Setelah total harga muncul, user ditanya apakah ingin menghitung total harga lagi? Jika iya maka tampilan kembali ke tampilan masukkan harga barang
    ![Screenshot (53)](https://github.com/user-attachments/assets/d702218c-4712-4c4f-b126-8786421e3d16)
 Jika tidak maka transaksi telah selesai.
 
