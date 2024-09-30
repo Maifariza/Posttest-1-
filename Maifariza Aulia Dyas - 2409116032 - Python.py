@@ -25,7 +25,7 @@ def hitung_total_harga():
 
         if total_harga > 250000:
             diskon = total_harga * 0.25
-            total_harga -= diskon
+            total_harga = diskon
             print(f"Anda mendapatkan diskon 25%. Total harga setelah diskon: Rp. {total_harga:.2f}")
         else:
             print(f"Total harga: Rp. {total_harga:.2f}")
